@@ -1,3 +1,18 @@
+# ==========================================
+# CUSTOM SURVEILLANCE PRIVACY GUARDS
+# ==========================================
+captures/
+unauthorised captures/
+known faces/
+surveillance_logs.db
+*.db
+*.sqlite3
+.env
+*.pt
+*.onnx
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
